@@ -1,1 +1,1 @@
-# sriov-templates, it works with nfv-scripts
+sriov-templates, it works with nfv-scripts
